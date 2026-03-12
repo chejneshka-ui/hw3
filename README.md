@@ -13,3 +13,6 @@ https://chejneshka-ui.github.io/hw3/
 - работать с генератором статических страниц (SSG);
 - работать с CI/CD на GitHub (GitHub actions);
 - строить workflows для проекта.
+
+## Вместо заключения
+![Сапожок](https://github.com/chejneshka-ui/hw3/blob/main/%D1%81%D0%B0%D0%BF%D0%BE%D0%B6%D0%BE%D0%BA.jpg)
